@@ -1,0 +1,6 @@
+.DS_Store
+.vscode/
+.env
+db.php
+uploads/*
+!uploads/index.html
